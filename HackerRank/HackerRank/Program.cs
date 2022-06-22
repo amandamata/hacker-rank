@@ -6,3 +6,4 @@ PlusMinus.Execute();
 MiniMaxSum.Execute();
 TimeConversion.Execute();
 ProcessLogs.Execute();
+BinarySearch.Execute();
